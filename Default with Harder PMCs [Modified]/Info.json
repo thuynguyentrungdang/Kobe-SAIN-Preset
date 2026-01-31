@@ -1,0 +1,11 @@
+{
+  "Name": "Default with Harder PMCs [Modified]",
+  "Description": "[Modified] Default Settings, but PMCs are harder than normal.",
+  "Creator": "user",
+  "SAINVersion": "4.4.0",
+  "SAINPresetVersion": "4.4.0",
+  "DateCreated": "01/31/2026 00:00:00",
+  "BaseSAINDifficulty": "harderpmcs",
+  "IsCustom": true,
+  "CanEditName": true
+}
